@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="?attr/colorPrimaryDark"
-            app:popupTheme="@style/AppTheme.AppBarOverlay" />
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
     </com.google.android.material.appbar.AppBarLayout>
 
     <LinearLayout
@@ -41,6 +41,7 @@
             android:id="@+id/et_email_reg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_12dp"
             android:hint="@string/email"
             android:inputType="textEmailAddress"
             android:textColor="@android:color/white"
@@ -50,6 +51,7 @@
             android:id="@+id/et_password_reg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_12dp"
             android:hint="@string/password"
             android:inputType="textPassword"
             android:textColor="@android:color/white"

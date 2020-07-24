@@ -7,4 +7,13 @@
     <string name="password">Password</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
+    <string name="write_message_here">write message here...</string>
+    <string name="send_message">send message</string>
+    <string name="welcome">welcome</string>
+    <string name="text_message_username">Please write username</string>
+    <string name="text_message_email">Please write email</string>
+    <string name="text_message_password">Please write password</string>
+    <string name="text_error_message">Error message</string>
+    <string name="text_users">Text Users</string>
+    <string name="logout">Logout</string>
 </resources>
